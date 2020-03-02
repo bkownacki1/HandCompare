@@ -1,5 +1,5 @@
-# MLTerm
-Machine Learning Term Project. Objective is to create a program which utilized machine learning to take an image of a person's hand and compare it to an image of a hand with unknown identity and output a percent confidence that the input hand belongs to the same person as the hand with identity unknown.
+# HandCompare
+HandCompare is my Machine Learning Term Project. Objective is to create a program which utilizes machine learning to take an image of a person's hand and compare it to an image of a hand with unknown identity and output a percent confidence that the input hand belongs to the same person as the hand with identity unknown.
 
 Useful primarily by law enforcement entities in cases where there are, for example, images from a surveillance camera which capture a perpetrator's hands but few other identifying features. Program can be used when a suspect is apprehended by taking a photo of the suspect's hands and using the program to compare the suspect's hands with the ones captured on surveillance. 
 
